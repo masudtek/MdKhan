@@ -1,0 +1,554 @@
+@charset "utf-8";
+#container{width:1160px;
+           height:1162px;
+           border:1px solid transparent;
+           margin:10px auto;
+          }
+header{
+	width:1140px;
+	height:60px;
+	border:1px solid transparent;
+	margin:10px auto;
+}  
+#logo{width:280px;
+	height:50px;
+	border:1px solid transparent;
+	margin:10px auto;
+	float:left;
+	background-image: url("../IMAGES/adv_logo_hd.gif");
+    background-repeat:no-repeat;}
+.logo1{width:180px;
+	height:50px;
+	border:1px solid transparent;
+	margin:10px auto;
+	float:right;}
+#img{width:20px;
+	height:20px;
+	border:1px solid transparent;
+	margin:10px auto;
+	float:right;}	
+nav{
+	width:1140px;
+	height:50px;
+	border:1px solid transparent;
+	margin:0px auto;
+}     
+#rates{
+	width:225px;
+	height:30px;
+	border:1px solid transparent;
+	margin:0px 0px 0px 0px;
+	float:left;
+	background:blue;
+	color:white;
+	
+	} 
+#rates a{text-decoration:none;
+         color:white;
+         text-align:justify;
+         margin:30px 0px 0px 10px;
+         }	
+	   
+.pass{
+	width:225px;
+	height:30px;
+	border:1px solid transparent;
+	margin:0px 0px 0px 0px;
+	float:left;
+	background-color:lightgrey;
+}     
+.pass a{text-decoration:none;
+        color:black;
+        text-align:center;
+         margin:30px 0px 0px 10px;
+         }	                
+section{
+	width:1140px;
+	height:50px;
+	border:1px solid transparent;
+	margin:10px auto;
+} 
+
+article{
+	width:700px;
+	height:720px;
+	border:1px solid transparent;
+	margin:3px;
+	float:left;
+}
+.row{
+	width:790px;
+	height:98px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 0px;
+	
+}
+.price{
+	width:188px;
+	height:90px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 3px;
+	float:left;
+	text-align:center;
+}
+.model{
+	width:188px;
+	height:90px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 3px;
+	float:left;
+	text-align:center;
+}
+img{padding:2px;}
+
+.passenger{
+	width:188px;
+	height:90px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 3px;
+	float:left;
+	text-align:center;
+	
+}
+.pic{width:180px;
+	height:20px;
+	border:1px solid transparent;
+	margin:0px 3px 0px 0px;
+	float:left;
+	text-align:left;}
+.pic a{padding:0px;
+margin:0px;}	
+.auto{
+	width:188px;
+	height:90px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 3px;
+	float:left;
+}
+ul{margin:0px;
+padding:0px;
+list-style-type:none;
+}
+h3,p,h6,h5,h4{
+	padding:0px;
+	margin:0px;
+}
+button{
+	background:blue;
+	color:white;
+	border:none;
+	padding:3px 8px;
+	border-radius:3px;
+}
+
+aside{
+	width:330px;
+	height:720px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 0px;
+	float:right;
+}  
+#upper{width:320px;
+	height:350px;
+	border:1px solid transparent;
+	margin:3px 0px 0px 3px;
+	float:left;
+	 background-image: url("../IMAGES/adv_bg.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size:100%;
+    text-align:center;}
+#lower{width:320px;
+	height:250px;
+	border:1px solid transparent;
+	margin:3px 0px 0px 3px;
+	float:left;
+	background-image: url("../IMAGES/vehicles/offer.gif");
+    background-position: left top;
+   
+    background-size:100%;}	
+	
+
+footer{
+	width:1140px;
+	height:220px;
+	border:1px solid transparent;
+	margin:740px 10px 0px 10px;
+	background-image: url("../IMAGES/footer-divider-grad.png");
+    background-position: left top;
+   
+    background-size:100%;
+	
+} 
+.footer1 {
+	width:278px;
+	height:175px;
+	border:1px solid transparent;
+	margin:0px 0px 0px 5px;
+	float:left;
+	text-align:center;
+	background-image: url("../IMAGES/footer-bg-grad.png");
+    background-position: left top;
+   
+    background-size:100%;
+}  #img{width:20px;
+	height:20px;
+	border:1px solid transparent;
+	margin:10px auto;
+	float:right;}	
+nav{
+	width:1140px;
+	height:50px;
+	border:1px solid transparent;
+	margin:0px auto;
+}     
+#rates{
+	width:225px;
+	height:30px;
+	border:1px solid transparent;
+	margin:0px 0px 0px 0px;
+	float:left;
+	background:blue;
+	
+	} 
+#rates a{text-decoration:none;
+         color:white;
+         text-align:justify;
+         margin:30px 0px 0px 10px;
+         }	
+	   
+.pass{
+	width:225px;
+	height:30px;
+	border:1px solid transparent;
+	margin:0px 0px 0px 0px;
+	float:left;
+	background-color:lightgrey;
+}     
+.pass a{text-decoration:none;
+        color:black;
+        text-align:center;
+         margin:30px 0px 0px 10px;
+         }	                
+section{
+	width:1140px;
+	height:50px;
+	border:1px solid transparent;
+	margin:10px auto;
+} 
+
+
+article{
+	width:800px;
+	height:720px;
+	border:1px solid transparent;
+	margin:3px;
+	float:left;
+}
+.row{
+	width:790px;
+	height:98px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 0px;
+	
+}
+.price{
+	width:188px;
+	height:90px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 3px;
+	float:left;
+	text-align:center;
+}
+.model{
+	width:188px;
+	height:90px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 3px;
+	float:left;
+	text-align:center;
+}
+img{padding:2px;}
+
+.passenger{
+	width:188px;
+	height:90px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 3px;
+	float:left;
+	text-align:center;
+	
+}
+.pic{width:180px;
+	height:20px;
+	border:1px solid transparent;
+	margin:0px 3px 0px 0px;
+	float:left;
+	text-align:left;}
+.pic a{padding:0px;
+margin:0px;}	
+.auto{
+	width:188px;
+	height:90px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 3px;
+	float:left;
+}
+ul{margin:0px;
+padding:0px;
+list-style-type:none;
+}
+h3,p,h6,h5,h4{
+	padding:0px;
+	margin:0px;
+}
+button{
+	background:blue;
+	color:white;
+	border:none;
+	padding:3px 8px;
+	border-radius:3px;
+}
+
+aside{
+	width:330px;
+	height:720px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 0px;
+	float:right;
+}  
+#upper{width:320px;
+	height:350px;
+	border:1px solid transparent;
+	margin:3px 0px 0px 3px;
+	float:left;
+	 background-image: url("../IMAGES/adv_bg.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size:100%;
+    text-align:center;}
+#lower{width:320px;
+	height:250px;
+	border:1px solid transparent;
+	margin:3px 0px 0px 3px;
+	float:left;
+	background-image: url("../IMAGES/vehicles/offer.gif");
+    background-position: left top;
+   
+    background-size:100%;}	
+	
+
+footer{
+	width:1140px;
+	height:220px;
+	border:1px solid transparent;
+	margin:740px 10px 0px 10px;
+	background-image: url("../IMAGES/footer-divider-grad.png");
+    background-position: left top;
+   
+    background-size:100%;
+	
+} 
+.footer1 {
+	width:278px;
+	height:175px;
+	border:1px solid transparent;
+	margin:0px 0px 0px 5px;
+	float:left;
+	text-align:center;
+	background-image: url("../IMAGES/footer-bg-grad.png");
+    background-position: left top;
+   
+    background-size:100%;
+}  a{margin:0px;
+  padding:5px;}      
+.form {
+	background-color: #CBCBC5;
+}
+body {
+	background-image: url(IMAGES/background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+th {
+	background-color: #D90728;
+	color: #EFEFEF;
+}
+.table {
+	background-position: 50% 50%;
+
+}
+.fp {
+	color: #EFE7E8;
+}
+.fh3 {
+}
+fh3 {
+	color: #F0E6E6;
+}
+.fh3 {
+	color: #1519D5;
+}
+.row .price p {
+}
+
+
+
+
+
+
+
+
+
+
+  
+  @media screen and (max-width:768px){
+  
+  #container{width:100%;
+           height:auto;
+           border:1px solid transparent;
+           margin:10px auto;
+           background-size: 100% 100%;
+          }
+   header{
+	width:80%;
+	height:60px;
+	border:1px solid transparent;
+	margin:10px auto;
+}  
+#logo{width:280px;
+	height:50px;
+	border:1px solid transparent;
+	margin:10px auto;
+	float:left;
+	background-image: url("../IMAGES/adv_logo_hd.gif");
+    background-repeat:no-repeat;
+    background-size:100% 100%;}
+    .logo1{display:none;}
+    #img{display:none;}
+    nav{display:none;}
+   section{display:none;}  
+   
+   article{
+	width:80%;
+	height:auto;
+	border:1px solid transparent;
+	margin:3px;
+	float:left;
+}
+.row{
+	width:790px;
+	height:98px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 0px;
+	
+}
+.price{
+	width:188px;
+	height:90px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 3px;
+	float:left;
+	text-align:center;
+}
+.model{
+	width:188px;
+	height:90px;
+	border:1px solid transparent;
+	margin:3px 3px 0px 3px;
+	float:left;
+	text-align:center;
+}
+img{padding:2px;}
+
+.passenger{display:
+	none;}
+.pic{display:none;}
+.pic a{display:none;}	
+.auto{display:
+	none;
+}
+ul{display:none;
+}
+h3,p,h6,h5,h4{padding:0px;
+	margin:0px;
+}
+button{
+	background:blue;
+	color:white;
+	border:none;
+	padding:3px 8px;
+	border-radius:3px;
+}
+
+aside{
+	width:80%;
+	height:auto;
+	border:1px solid transparent;
+	margin:3px 3px 0px 0px;
+	float:right;
+}  
+#upper{width:80%;
+	height:350px;
+	border:1px solid transparent;
+	margin:3px 0px 0px 3px;
+	float:left;
+	 background-image: url("../IMAGES/adv_bg.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size:100% 100%;
+    text-align:center;}
+#lower{width:80%;
+	height:250px;
+	border:1px solid transparent;
+	margin:3px 0px 0px 3px;
+	float:left;
+	background-image: url("../IMAGES/vehicles/offer.gif");
+    background-position: left top;
+   
+    background-size:100% 100%;}	
+	
+
+
+	
+	                      
+  
+  }
+  tr:nth-child(even) {
+  background-color: cyan;
+  color: black;}
+  tr:nth-child(odd) {
+  background-color: lightblue;
+  color: white;}
+  tr:hover {
+  background-color: yellow;
+  color: red;}
+  
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=email], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=tel], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
